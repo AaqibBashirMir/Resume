@@ -1,1 +1,2 @@
-github link:-https://github.com/AaqibBashirMir/Resume
+hosted link:-https://aaqibbashirmir.github.io/Resume/
+
